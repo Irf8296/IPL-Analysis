@@ -1,2 +1,2 @@
 # IPL-Analysis
-C:> Users > irfan > OneDrive > Desktop > ipl 2024 bi.pbix
+Dashboard: power bi file(.pbix) of the projet.
